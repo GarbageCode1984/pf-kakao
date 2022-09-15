@@ -312,7 +312,7 @@ article .box { padding:20px; }
 }
 .banner a{
   display: block;
-  padding: 0 0 0 14px;
+  padding: 0 14px;
 }
 .banner img{
   width: 100%;
